@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Plansza">
+    <Position X="0.5" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAARAHAAAAAAAAAAACAAIAACIBAAgAAAAAAAAAAAAAI=</HashCode>
+      <FileName>plansza.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraczKomputer">
+    <Position X="9.75" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAEIAHAAAAAAAAABAAAAAAAHgAAAA=</HashCode>
+      <FileName>gracze.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraczCzlowiek">
+    <Position X="3.75" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAEIAHAAAAAAAAABAAAAAAAHgAAAA=</HashCode>
+      <FileName>gracze.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gracz">
+    <Position X="7" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQAABAAAAAAAAAEIAHAAAAAAABEBCQAQRgQHgABEA=</HashCode>
+      <FileName>gracze.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

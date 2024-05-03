@@ -1,0 +1,5 @@
+Nazwa gracza: test-gra-1	Ilosc zdobytych punktow: 118
+Nazwa gracza: test-gra-2-gracz1	Ilosc zdobytych punktow: 20
+Nazwa gracza: test-gra-2-gracz2	Ilosc zdobytych punktow: 21
+Nazwa gracza: test-gra-3-gracz	Ilosc zdobytych punktow: 10
+Nazwa gracza: OstatniTest	Ilosc zdobytych punktow: 10
